@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
+<!-- default file list end -->
 # DXRichEdit Getting Started - Lesson 3 - Provide Ribbon UI for a RichEditControl
 
 
